@@ -1,5 +1,5 @@
 <script setup>
-
+a
 import { ref, onMounted } from 'vue'
 
 const contador = ref(0)
